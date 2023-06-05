@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ECourse.Services.Catalog.props" />
+</Project>
