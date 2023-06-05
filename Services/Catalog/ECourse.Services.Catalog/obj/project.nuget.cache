@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "E0c5fR2hjIqKZ+Q/frXDlYQJoQ4gxUGZfdbaezW6/SaTf6uNtpC3lDihQkoQ86sJhsJ5gf2/UqQk2RkqBv/mbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ssi\\Projects\\dotnet7-microservice\\Services\\Catalog\\ECourse.Services.Catalog\\ECourse.Services.Catalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ssi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\ssi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ssi\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\ssi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ssi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ssi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ssi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
